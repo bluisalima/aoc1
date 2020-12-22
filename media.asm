@@ -2,7 +2,7 @@
 
 	# Escreva uma subrotina que retorne a média entre três valores.  
 	# A subrotina deve receber comoargumentos três inteiros e retornar a média entre eles. 
-	# Escreva um programa principal responsável por ler trêsvalores informados pelo usuário e imprima o resultado.
+	# Escreva um programa principal responsável por ler três valores informados pelo usuário e imprima o resultado.
 	# Importante: Utilize os registradores convencionadospara a passagem de argumentos e valor de retorno!
 	# Armazene o retorno da subrotina (média entre os três valores)no registrador $t5.
 	
